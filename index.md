@@ -8,3 +8,7 @@
 ``` javascript
 var myVar = "¡Hola, mundo!";
 ```
+
+- [x] Hacer una lista con markdown
+- [ ] Copiarle en clase a Diego Leon
+- [x] Estudiar
